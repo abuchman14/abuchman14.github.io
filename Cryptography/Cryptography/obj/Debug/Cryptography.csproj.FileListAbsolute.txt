@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\bin\Debug\Cryptography.exe.config
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\bin\Debug\Cryptography.exe
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\bin\Debug\Cryptography.pdb
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\obj\Debug\Cryptography.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\obj\Debug\Cryptography.exe
+c:\users\anna\documents\visual studio 2015\Projects\Cryptography\Cryptography\obj\Debug\Cryptography.pdb
